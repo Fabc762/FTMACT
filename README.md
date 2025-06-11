@@ -1,2 +1,0 @@
-# FTMACT
-FTM
